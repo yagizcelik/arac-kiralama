@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\msi-nb\\Desktop\\projeler\\arac takip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92994A68-8DA1-46EF-B297-51AF36613043}|arac takip\\arac takip.csproj|c:\\users\\msi-nb\\desktop\\projeler\\arac takip\\arac takip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92994A68-8DA1-46EF-B297-51AF36613043}|arac takip\\arac takip.csproj|solutionrelative:arac takip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\projeler\\arac takip\\arac takip\\Program.cs",
+              "RelativeDocumentMoniker": "arac takip\\Program.cs",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\projeler\\arac takip\\arac takip\\Program.cs*",
+              "RelativeToolTip": "arac takip\\Program.cs*",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAqwFcBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T17:07:33.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\msi-nb\Desktop\projeler\arac takip\arac takip\bin\Debug\arac takip.exe.config
+C:\Users\msi-nb\Desktop\projeler\arac takip\arac takip\bin\Debug\arac takip.exe
+C:\Users\msi-nb\Desktop\projeler\arac takip\arac takip\bin\Debug\arac takip.pdb
+C:\Users\msi-nb\Desktop\projeler\arac takip\arac takip\obj\Debug\arac takip.csproj.AssemblyReference.cache
+C:\Users\msi-nb\Desktop\projeler\arac takip\arac takip\obj\Debug\arac takip.csproj.CoreCompileInputs.cache
+C:\Users\msi-nb\Desktop\projeler\arac takip\arac takip\obj\Debug\arac takip.exe
+C:\Users\msi-nb\Desktop\projeler\arac takip\arac takip\obj\Debug\arac takip.pdb
